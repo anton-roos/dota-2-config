@@ -1,0 +1,126 @@
+"guidedata"
+{
+	"Hero"		"dark_willow"
+	"Title"		"Dark Willow Eating Goats"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.29d"
+	"Overview"		"[url=https://discord.gg/JWwa6fC]Join Discord if you have any questions![/url]
+
+[url=https://twitter.com/ImmortalFaithd]Follow me on twitter if you want to know about any updates![/url]"
+	"GuideRevision"		"89"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000006300EB0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000060F2AB97"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_tango"
+			}
+			"EARLY"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_phase_boots"
+				"item"		"item_bottle"
+				"item"		"item_ultimate_scepter"
+			}
+			"CORE"
+			{
+				"item"		"item_moon_shard"
+				"item"		"item_bloodthorn"
+				"item"		"item_greater_crit"
+				"item"		"item_sheepstick"
+			}
+			"LATE"
+			{
+			}
+			"SITUATIONAL"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"A great item for initiation/escape. Combo it with Bramble Maze into Bedlam for efficiency."
+			"item_cyclone"		"Use Cursed crown on an enemy and immediately follow up with Eul's Scepter. When the target comes down he will be stunned and you can follow up with Bedlam."
+			"item_null_talisman"		"Null Talisman early on further enables your laning stage by giving you very needed stats."
+			"item_bottle"		"Since you can easily Roam across the map to get kills on weak heroes having a Bottle will help you sustain your Mana and HP."
+			"item_phase_boots"		"A very strong item which further enables your hero early / mid game by giving you damage and armor."
+			"item_sheepstick"		"Scythe of Vyse is the strongest disable overall, a perfect item for focusing specific targets.
+
+"
+			"item_ultimate_scepter"		"Allows you to hit from Shadow Realm it's entire duration. The main item and reason why Dark Willow can be played as a core."
+			"item_mjollnir"		"Further enables your overall damage. A great item for faming aswell."
+			"item_moon_shard"		"Further enables your lategame damage while you're in Shadow Realm."
+			"item_sphere"		"A great defensive tool which protects you during the later stages of the game. Provides you good stats and HP and Mana regeneration aswell."
+			"item_veil_of_discord"		"Enhances your magic damage skills and give you good stats.
+
+After you use Veil of Discord on an enemy follow up with Bramble Maze and Bedlam."
+			"item_magic_wand"		"A very good item for teamfighting, re-engaging and sustaining."
+			"item_aeon_disk"		"A great item to get on heroes that have key abilities or are priority targets for their foes."
+			"item_shivas_guard"		"Very good against multiple enemy heroes who are relying on psyhical damage."
+			"item_hurricane_pike"		"Can be situationally bought in the lategame to distance yourself from your foes while dealing a very high amount of damage."
+			"item_spirit_vessel"		"Can be situationally bought against heroes like Morphing / Huskar / Enchantress / Timbersaw etc."
+			"item_bloodthorn"		"Bloodthorn is an item that silences targets and helps with bursting them down. One of the best lategame items overall."
+			"item_nullifier"		"An item that prevents the target from using any items’ active abilities and even cancels them if already activated. Especially good against Black King Bar. "
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dark_willow_shadow_realm"
+			"2"		"dark_willow_bramble_maze"
+			"3"		"dark_willow_shadow_realm"
+			"4"		"dark_willow_cursed_crown"
+			"5"		"dark_willow_shadow_realm"
+			"6"		"dark_willow_bedlam"
+			"7"		"dark_willow_shadow_realm"
+			"8"		"dark_willow_bramble_maze"
+			"9"		"dark_willow_bramble_maze"
+			"10"		"special_bonus_unique_dark_willow_5"
+			"11"		"dark_willow_bramble_maze"
+			"12"		"dark_willow_bedlam"
+			"13"		"dark_willow_cursed_crown"
+			"14"		"dark_willow_cursed_crown"
+			"15"		"special_bonus_unique_dark_willow_4"
+			"16"		"dark_willow_cursed_crown"
+			"18"		"dark_willow_bedlam"
+			"20"		"special_bonus_unique_dark_willow_3"
+			"25"		"special_bonus_attack_speed_110"
+		}
+		"AbilityTooltips"
+		{
+			"dark_willow_bramble_maze"		"Your initiation.
+
+Does not interrupt channeling spells upon rooting.
+
+Use it in choke points or in the middle of teamfights.
+"
+			"dark_willow_shadow_realm"		"Disjoints projectiles upon cast.
+
+Grants phased movement.
+
+Very high magic damage skill which you can use to finish off targets/harass them during laning stage.
+
+When ganking, use Shadow Realm with Bedlam to deal high burst damage, and to avoid being disabled by the target.
+
+"
+			"dark_willow_cursed_crown"		"Works very well with Eul's Scepter. -> Use Cursed Crown on an enemy hero. Immediately Eul's that enemy hero. When he will come down from the Eul's Scepter he will be stunned and you can follow up with Bramble Maze and Bedlam."
+			"dark_willow_bedlam"		"Can deal up to 1200/2400/3600 damage to a single unit (before reductions) if all attacks hit.
+
+Bedlam is a single target spell, so you want to try and focus down a single target.
+"
+			"dark_willow_terrorize"		"Use Terrorize to protect allies and disengage from a losing fight.
+
+You can also initiate with it and immediately use Bramble Maze in front of them so the enemies run into it.
+"
+		}
+	}
+}

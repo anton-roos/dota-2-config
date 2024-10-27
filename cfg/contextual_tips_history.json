@@ -1,0 +1,66 @@
+{
+	"version": 1,
+	"history":
+	[
+		{
+			"tip_id": 2,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 4,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 6,
+			"display_count": 1,
+			"variants_seen":
+			[
+				6300048
+			]
+		},
+		{
+			"tip_id": 7,
+			"display_count": 20,
+			"variants_seen":
+			[
+				5549,
+				5581,
+				5385,
+				5549,
+				5040,
+				5261,
+				5040,
+				5103,
+				5549,
+				5549,
+				5110,
+				5049,
+				5290,
+				5049,
+				5049,
+				5290,
+				5103,
+				5040,
+				5049,
+				5423
+			]
+		},
+		{
+			"tip_id": 10,
+			"display_count": 10,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 12,
+			"display_count": 10,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 307,
+			"display_count": 1,
+			"variants_seen": null
+		}
+	]
+}

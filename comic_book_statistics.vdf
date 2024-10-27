@@ -1,0 +1,47 @@
+""
+{
+	"act2_facets"
+	{
+		"last_page_read"		"6"
+		"highest_page_read"		"6"
+		"seconds_spent_reading"		"6"
+	}
+	"act2_outro"
+	{
+		"last_page_read"		"13"
+		"highest_page_read"		"13"
+		"seconds_spent_reading"		"13"
+	}
+	"ringmaster"
+	{
+		"last_page_read"		"52"
+		"highest_page_read"		"52"
+		"seconds_spent_reading"		"384"
+	}
+	"act2_intro"
+	{
+		"last_page_read"		"3"
+		"highest_page_read"		"3"
+		"seconds_spent_reading"		"2"
+	}
+	"act3_zaug_weapon"
+	{
+		"last_page_read"		"1"
+	}
+	"act2_centaur_comic"
+	{
+		"last_page_read"		"3"
+	}
+	"act3_outro"
+	{
+		"last_page_read"		"3"
+		"highest_page_read"		"3"
+		"seconds_spent_reading"		"2"
+	}
+	"act1_smoke_harbor"
+	{
+		"last_page_read"		"26"
+		"highest_page_read"		"26"
+		"seconds_spent_reading"		"17"
+	}
+}

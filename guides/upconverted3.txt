@@ -1,0 +1,9 @@
+"upconversionInfo"
+{
+	"upconverted"
+	{
+		"magnataur_1443001924.build"		"1"
+		"magnataur_scratch.build"		"1"
+		"rattletrap_1443002044.build"		"1"
+	}
+}

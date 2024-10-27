@@ -1,0 +1,173 @@
+"guidedata"
+{
+	"Hero"		"sand_king"
+	"Title"		"Pro Sandking"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.37c"
+	"Overview"		"[quote][img]https://i.imgur.com/VEIbndI.jpeg [/img ]
+[url=https://go.thunder.partners/visit/?bta=36634&nci=5506] Sponsored by: Thunderpick [/url ][/quote]"
+	"GuideRevision"		"382"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000066F6ED52"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"STARTING ITEMS"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+				"item"		"item_quelling_blade"
+			}
+			"Early game"
+			{
+				"item"		"item_bracer"
+				"item"		"item_boots"
+			}
+			"Core items"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_blink"
+				"item"		"item_bloodstone"
+				"item"		"item_cyclone"
+				"item"		"item_shivas_guard"
+			}
+			"Situational items"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_force_staff"
+				"item"		"item_eternal_shroud"
+				"item"		"item_lotus_orb"
+				"item"		"item_black_king_bar"
+			}
+			"Extension items"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_pipe"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_wind_waker"
+			}
+			"Luxury items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_octarine_core"
+				"item"		"item_sheepstick"
+				"item"		"item_ethereal_blade"
+				"item"		"item_overwhelming_blink"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Use Blink Dagger to initiate onto your team after having already channeled Epicenter.
+
+Follow up with your Burrowstrike to keep enemies in place as you keep them down and taking all your damage."
+			"item_cyclone"		"Euls Scepter can help keep foes in place long enough for your Caustic Finale to occur and slow the foe. Otherwise, its also a great way to follow-up  long enough until your Burrowstrike comes off cooldown to stun them again.
+
+The mana regen is also greatly appreciated."
+			"item_force_staff"		"Ultimate, Blink, Stun, chase with Force Staff or get the hell out of there with Force Staff. The combination works in many ways and keeps you on the move and your enemies caught in your AOE damage. It is without a doubt that movement is a commodity in Dota 2 and you want to move as Sand King."
+			"item_shivas_guard"		"Shivas Guard is a great defensive item to increase your armor while also staving off strong physical carries wtih your nuke aura.
+
+Against tanky enemies, this item is also recommended to reduce their sustainability through regeneration or lifesteal.
+
+With your Epicenters slow and Shivas Guard; no foe will be able to escape."
+			"item_hand_of_midas"		"If your farm is interrupted and you are going to opt for larger items from the get-go. Go for Hand of Midas.
+
+Hand of Midas is valuable only if you know the game will go late and you can take advantage of that with early-levels and faster farm."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if theyre frail to magic types."
+			"item_ultimate_scepter"		"Aghs Scepter makes your initiation with Epicenter even more potent as the Sand Storm punishes foes still caught within your range.
+
+The Burrowstrike also debuffs enemies with Caustic Finale."
+			"item_veil_of_discord"		"An early Veil provides mana regen and most importantly, heightened damage from all your abilities.
+
+Make sure to cast this as you initiate with your ultimate."
+			"item_bracer"		"An early bracer increases your survivability in the lane especially versus a heavy harassing team."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. You should think about picking up Ring of Basi or Boots of Speed first depending on if you need movement in the early-game to harass or engage or your team relies on the mana regen from Ring of Basi to do more spells throughout."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes.
+
+Use before your opponents pops their BKB as the Disarm will pursue even after."
+			"item_lotus_orb"		"The value of Lotus Orb is both its stats in mana and armor but also the ability to dispel slows and silences that would be keeping you down.
+
+Furthermore, the ability to cast back big nuking abilities to your enemies has tremendous value, especially against stuns or ultimate damaging abilities."
+			"item_ethereal_blade"		"For Sand King, the Ethereal Blade amplifies the damage you deal with your spells towards enemies. Especially potent if a Caustic Finale pops near that targeted foe.
+
+To add, use Ethereal Blade when initiating with your ultimate or use it to save an ally from physical attacks or to disable a physical carry."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_soul_ring"		"For Sand King, the cost of your spells significantly deplete your man. Soul Ring is for that period more or less after the laning stage where your can afford to lose some health to spam Sand Storm on stacked jungle creeps."
+			"item_kaya_and_sange"		"Kaya and Sange alleviates the chain slows that you will receive, increase your magic output, health and mana gain to alleviate you of any concern."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_aghanims_shard"		"Your strongest tool in a fight is your Epicenter initiation. This helps it scale in damage as well as providing some passive value when moving."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_black_king_bar"		"Black King Bar may necessary if you are getting interrupted from casting your ultimate or unable to maneuver around after already opened with your initiation."
+			"item_guardian_greaves"		"Greaves dispels slows and silences that can hamper you from casting your abilities. More importantly, it improves incredible support for your team and beefs up Sand King who stays in the middle of fights with Sand Storm."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_meteor_hammer"		"Combined with Burrowstrike, you can chain-stun enemies into channeling your Epicenter for an incredible combination of damage and potential kills."
+			"item_wind_waker"		"With Wind Waker, you can reposition yourself within your Sand Storm or at a better angle to stun enemies again with Burrowstrike."
+			"item_vanguard"		"Vanguard provides you with the survivability to farm as well as to overpower others in fights by out-surviving them.
+
+Consider disassembling this to make Octarine Core or other items with its components."
+			"item_crimson_guard"		"Crimson Guard is recommended against high-input and illusion-base or unit-related damage heroes, like Lycan or Broodmother, to mitigate their physical output against your team that needs, but cannot focus on, sustainability. Crimson Guard scales with your strength, so it is especially valuable with heroes who have high strength gain or are building strength-base items."
+			"item_voodoo_mask"		"Opt for an early Voodoo Mask so you can farm stacked Ancient and Jungle camps while maintaining a certain level of health to survive while relying on your Sandstorm and Innate Ability."
+			"item_bloodstone"		"Bloodstone increases the AoE of your innate ability, Sandstorm, Epicenter and Stinger which is massive value for a hero like Sand King who dominates fights upon initiating.
+
+Activate Bloodstone during a fight to keep yourself alive within your Sandstorm and it deals damage to everyone and sustaining your presence."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"sandking_burrowstrike"
+			"2"		"sandking_scorpion_strike"
+			"3"		"sandking_sand_storm"
+			"4"		"sandking_sand_storm"
+			"5"		"sandking_sand_storm"
+			"6"		"sandking_epicenter"
+			"7"		"sandking_sand_storm"
+			"8"		"sandking_burrowstrike"
+			"9"		"sandking_burrowstrike"
+			"10"		"sandking_burrowstrike"
+			"11"		"special_bonus_unique_sand_king_burrowstrike_stun"
+			"12"		"sandking_epicenter"
+			"13"		"sandking_scorpion_strike"
+			"14"		"sandking_scorpion_strike"
+			"15"		"special_bonus_unique_sand_king_2"
+			"16"		"sandking_scorpion_strike"
+			"18"		"sandking_epicenter"
+			"20"		"special_bonus_unique_sand_king_5"
+			"25"		"special_bonus_unique_sand_king_4"
+		}
+		"AbilityTooltips"
+		{
+			"sandking_burrowstrike"		"Your initiation move until you have Blink Dagger. After that, use Blink Dagger:
+
+1. Activate Epicenter, let the channeling finish
+2. (Shift-Queue) Blink onto enemies
+3. Burrowstrike as many targets as possible (target ground for multi-hit)
+4. Activate Sand Storm
+5. Finish off key targets with a close-up Stinger
+
+Rely on Burrowstrike to guarantee last-hits on range creeps."
+			"sandking_caustic_finale"		"Use Caustic Finale to slow fleeing foes caught in your Sand Storm. Try to prod as many units as you can just before they die.
+
+During the laning phase, try to last hit with Caustic Finale to cause great AoE scaling damage."
+			"sandking_epicenter"		"Epicenter is your incredible initiation move and what makes Sand King so formidable. Even when dead, Epicenter continues at your location dealing huge damage. Be sure to queue up the channeling time and follow it with Blink Dagger then Burrowstrike to deal as much damage as possible."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"sandking_scorpion_strike"		"This is your last-hitting and farming ability in combination with your Caustic Finale.
+
+During fights, you should use Stinger after initiating with Epicenter and using Burrowstrike or Blink Dagger to enter the fight."
+		}
+	}
+}

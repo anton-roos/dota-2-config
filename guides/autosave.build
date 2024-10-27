@@ -1,0 +1,77 @@
+"HeroGuide"
+{
+	"Hero"	"rattletrap"
+	"Title"	"Clockwerk Offlane Support 6.84"
+	"GuideRevision"	"1"
+	"FileVersion"	"1"
+	"Scratch"	"0"
+	"TargetFilename"	"guides/rattletrap_1443002044.build"
+
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"	"item_tpscroll"
+				"item"	"item_quelling_blade"
+				"item"	"item_clarity"
+				"item"	"item_clarity"
+				"item"	"item_tango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"	"item_ward_observer"
+				"item"	"item_boots"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"	"item_arcane_boots"
+				"item"	"item_mekansm"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"	"item_force_staff"
+				"item"	"item_blade_mail"
+				"item"	"item_ultimate_scepter"
+			}
+			"Luxury Items"
+			{
+				"item"	"item_heart"
+				"item"	"item_assault"
+			}
+		}
+	}
+
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"	"rattletrap_power_cogs"
+			"2"	"rattletrap_rocket_flare"
+			"3"	"rattletrap_power_cogs"
+			"4"	"rattletrap_battery_assault"
+			"5"	"rattletrap_rocket_flare"
+			"6"	"rattletrap_hookshot"
+			"7"	"rattletrap_battery_assault"
+			"8"	"rattletrap_battery_assault"
+			"9"	"rattletrap_battery_assault"
+			"10"	"rattletrap_rocket_flare"
+			"11"	"rattletrap_hookshot"
+			"12"	"rattletrap_power_cogs"
+			"13"	"rattletrap_rocket_flare"
+			"14"	"rattletrap_power_cogs"
+			"15"	"attribute_bonus"
+			"16"	"rattletrap_hookshot"
+			"17"	"attribute_bonus"
+			"18"	"attribute_bonus"
+			"19"	"attribute_bonus"
+			"20"	"attribute_bonus"
+			"21"	"attribute_bonus"
+			"22"	"attribute_bonus"
+			"23"	"attribute_bonus"
+			"24"	"attribute_bonus"
+			"25"	"attribute_bonus"
+		}
+	}
+}

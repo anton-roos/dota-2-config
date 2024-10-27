@@ -1,0 +1,156 @@
+"guidedata"
+{
+	"Hero"		"queenofpain"
+	"Title"		"Poes of Pain"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.37d"
+	"Overview"		"[quote][img]https://i.imgur.com/VEIbndI.jpeg [/img ]
+[url=https://go.thunder.partners/visit/?bta=36634&nci=5506] Sponsored by: Thunderpick [/url ][/quote]"
+	"GuideRevision"		"389"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000066FFCC1B"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Early game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core items"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_dagon"
+				"item"		"item_orchid"
+				"item"		"item_kaya"
+				"item"		"item_aghanims_shard"
+			}
+			"Situational items"
+			{
+				"item"		"item_cyclone"
+				"item"		"item_witch_blade"
+				"item"		"item_sphere"
+				"item"		"item_yasha_and_kaya"
+			}
+			"Extension items"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_dagon_5"
+			}
+			"Luxury items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_shivas_guard"
+				"item"		"item_sheepstick"
+				"item"		"item_ethereal_blade"
+				"item"		"item_wind_waker"
+				"item"		"item_bloodthorn"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_null_talisman"		"These help bolster Queen of Pains mana pool and her survivability."
+			"item_orchid"		"Increase your damage and crowd-control with this item. Easy to build, great amplified damage for all your moves and extra attack speed for your decent autoattack output."
+			"item_bloodthorn"		"Bloodthorn is the ultimate item for Queen of Pain. Damage to compliment her inherent movement speed as well as silence and damage amplification to make all her abilities deal even more incredible damage."
+			"item_cyclone"		"Euls Scepter of Divinity has a dual-purpose for Queen of Pain:
+
+1. Euls Scepter of Divinity is a great way to purge yourself from any silences so you can safely Blink.
+
+2. Euls Scepter of Divinity also offers great mana regeneration  so you can safely roam without having to go back to base."
+			"item_black_king_bar"		"When jumping into the fray, Black King Bar should ensure you are not prevented from dealing all that initial damage. A double safety-pin alongside Orchid Malevolence."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_monkey_king_bar"		"At this point of the game, you pretty much have everything you need. This is to help your autoattack damage output since you have all this attack speed and established magic-damage."
+			"item_blade_mail"		"Queen of Pain has the damage output and initiation to man-fight any target. Against heroes that may want to target you back that are especially fragile but have high damage output, Blade Mail can be nice."
+			"item_veil_of_discord"		"Early mana regen combined with increased spells makes your early game even more potent and incredible."
+			"item_shivas_guard"		"Shivas Guard is a great defensive item to increase your armor while also staving off strong physical carries wtih your nuke aura.
+
+Against tanky enemies, this item is also recommended to reduce their sustainability through regeneration or lifesteal."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"With Aghs Shard, your blink becomes a lot safer as your silence enemies you jump on, permitting you safe passage to then kill them.
+
+More importantly, with this, you can one-shot creep waves and camps along with your Scream of Pain for very fast farming speed."
+			"item_kaya_and_sange"		"Kaya and Sange alleviates the chain slows that you will receive, increase your magic output, health and mana gain to alleviate you of any concern."
+			"item_gungir"		"Gleipnir is a great item if you have the all-around damage but lack the ability to keep people in places and need to disable them long enough to hold your attacks. For fights that have a lot of maneuverability involved, Gleipnir can be a solution instead of Mjollnir providing attack speed."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_refresher"		"Refresher Orb is the last logical step of your build. It neatly refreshes all your abilities including items and allows you to extend your pushing power with eidolons as well as double your ultimates duration."
+			"item_bottle"		"Your goal early-on is to snag last hits to get Bottle before the two-minute rune comes up. You rely on Bottle to spam abilities that either harasses your opponent, secures the ranged creep with an ability or to eventually gank when you can activate the rune whenever you want to start roaming to other lanes."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_witch_blade"		"Queen of Pain seeks to win her lane through harassment and heavy nuke damage. Witch Blade takes advantage of her physical attack damage and speed and amplifies it with even more damage and poison.
+
+Combined with Shadow Strike, Queen of Pain can easily bully most enemies out of the lane."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"queenofpain_scream_of_pain"
+			"2"		"queenofpain_blink"
+			"3"		"queenofpain_scream_of_pain"
+			"4"		"queenofpain_blink"
+			"5"		"queenofpain_scream_of_pain"
+			"6"		"queenofpain_sonic_wave"
+			"7"		"queenofpain_scream_of_pain"
+			"8"		"queenofpain_blink"
+			"9"		"queenofpain_blink"
+			"10"		"special_bonus_strength_8"
+			"11"		"queenofpain_shadow_strike"
+			"12"		"queenofpain_sonic_wave"
+			"13"		"queenofpain_shadow_strike"
+			"14"		"queenofpain_shadow_strike"
+			"15"		"special_bonus_unique_queen_of_pain_4"
+			"16"		"queenofpain_shadow_strike"
+			"18"		"queenofpain_sonic_wave"
+			"20"		"special_bonus_unique_queen_of_pain_2"
+			"25"		"special_bonus_unique_queen_of_pain_6"
+		}
+		"AbilityTooltips"
+		{
+			"queenofpain_shadow_strike"		"Shadow Strike is your initiation or follow-through to slow and debuff enemies so they can flee from your strong nuking capabilities. You can use Shadow Strike after your Scream of Pain and Sonic Wave combo to finish enemies OR before the combo as a way to whittle opponents down."
+			"queenofpain_blink"		"This is your initiation or escape. Blink in and dish your damage:
+
+1. Blink onto an enemy at a close enough distance to cast your spells
+2. Start with Scream of Pain
+3. Follow-up with Shadow Strike due to its low cooldown
+4. Sonic Wave to finish them off.
+
+Later in the game, dont blink into massive fights, just walk over. Keep your Blink to escape situations."
+			"queenofpain_scream_of_pain"		"Scream of Pain works on invisible units. You also typically use this to flash-farm and to snag any invisbile units or in the fog that you cant initially see, but know they are around.
+
+Early point to help with last-hitting the ranged enemy creep in-lane."
+			"queenofpain_sonic_wave"		"An incredible nuke and a huge range, Sonic Wave is a great item to dish out in team-fights. This should be your follow-up from Scream of Pain.
+
+As a tip, you can also hit couriers with your ultimate."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_12"		"Reduces both your ability and active-item cooldowns."
+			"special_bonus_spell_block_20"		"Spell Block will block one spell that targets Queen of Pain (e.g: Doom&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Doom). 
+
+Cooldown: 20 seconds."
+		}
+	}
+}

@@ -1,0 +1,12 @@
+"ArmoryFilters"
+{
+	"Immortal"
+	{
+		"1"
+		{
+			"Field"		"RarityBitfield"
+			"Op"		"="
+			"Value"		"128"
+		}
+	}
+}

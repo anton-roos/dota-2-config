@@ -1,0 +1,83 @@
+"guidedata"
+{
+	"Hero"		"rattletrap"
+	"Title"		"Pro Clockwerk"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.37c"
+	"Overview"		""
+	"GuideRevision"		"11"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004BB86D2"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000066F6FE2B"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_ward_sentry"
+				"item"		"item_ward_sentry"
+				"item"		"item_blood_grenade"
+				"item"		"item_branches"
+				"item"		"item_wind_lace"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_bracer"
+				"item"		"item_ward_observer"
+				"item"		"item_boots"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_force_staff"
+				"item"		"item_blade_mail"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
+				"item"		"item_mekansm"
+			}
+			"Luxury Items"
+			{
+				"item"		"item_heart"
+				"item"		"item_assault"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"rattletrap_power_cogs"
+			"2"		"rattletrap_rocket_flare"
+			"3"		"rattletrap_power_cogs"
+			"4"		"rattletrap_battery_assault"
+			"5"		"rattletrap_rocket_flare"
+			"6"		"rattletrap_hookshot"
+			"7"		"rattletrap_battery_assault"
+			"8"		"rattletrap_battery_assault"
+			"9"		"rattletrap_battery_assault"
+			"10"		"rattletrap_rocket_flare"
+			"12"		"rattletrap_power_cogs"
+			"13"		"rattletrap_rocket_flare"
+			"14"		"rattletrap_power_cogs"
+			"15"		"attribute_bonus"
+			"17"		"attribute_bonus"
+			"18"		"rattletrap_hookshot"
+			"20"		"attribute_bonus"
+			"25"		"attribute_bonus"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

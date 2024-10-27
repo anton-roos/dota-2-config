@@ -1,0 +1,100 @@
+"guidedata"
+{
+	"Hero"		"puck"
+	"Title"		"Pro Mid"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.37c"
+	"Overview"		""
+	"GuideRevision"		"21"
+	"AssociatedWorkshopItemID"		"0x00000000C6A92574"
+	"OriginalCreatorID"		"0x0000000004BB86D2"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000066EEDB3D"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_ward_observer"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_null_talisman"
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+			}
+			"MID GAME"
+			{
+				"item"		"item_witch_blade"
+				"item"		"item_blink"
+				"item"		"item_cyclone"
+				"item"		"item_aghanims_shard"
+				"item"		"item_devastator"
+				"item"		"item_maelstrom"
+				"item"		"item_sphere"
+				"item"		"item_ultimate_scepter"
+			}
+			"LATE Game"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_greater_crit"
+				"item"		"item_octarine_core"
+				"item"		"item_arcane_blink"
+			}
+			"Neutrals"
+			{
+				"item"		"item_arcane_ring"
+				"item"		"item_grove_bow"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_mind_breaker"
+				"item"		"item_mirror_shield"
+			}
+			"SITUATIONAL"
+			{
+				"item"		"item_gem"
+				"item"		"item_moon_shard"
+				"item"		"item_travel_boots"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"puck_illusory_orb"
+			"2"		"puck_phase_shift"
+			"3"		"puck_illusory_orb"
+			"4"		"puck_waning_rift"
+			"5"		"puck_illusory_orb"
+			"6"		"puck_dream_coil"
+			"7"		"puck_illusory_orb"
+			"8"		"puck_waning_rift"
+			"9"		"puck_waning_rift"
+			"10"		"puck_waning_rift"
+			"11"		"special_bonus_unique_puck_orb_damage"
+			"12"		"puck_dream_coil"
+			"13"		"puck_phase_shift"
+			"14"		"puck_phase_shift"
+			"15"		"special_bonus_unique_puck_6"
+			"16"		"puck_phase_shift"
+			"18"		"puck_dream_coil"
+			"20"		"special_bonus_unique_puck_coil_damage"
+			"25"		"attribute_bonus"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

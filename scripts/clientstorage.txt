@@ -1,0 +1,16 @@
+"ClientStorage"
+{
+	"compendium_league_600"
+	{
+		"last_toc_version"		"12"
+	}
+	"compendium_league_2733"
+	{
+		"last_viewed_content_version"		"16"
+		"last_downloaded_version"		"59"
+	}
+	"WatchLater"
+	{
+		"4668777637"		"1"
+	}
+}

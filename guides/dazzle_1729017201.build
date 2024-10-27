@@ -1,0 +1,125 @@
+"guidedata"
+{
+	"Hero"		"dazzle"
+	"Title"		"Dazzle Mid"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.37d"
+	"Overview"		"_"
+	"GuideRevision"		"117"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000006300EB0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000670ECCF4"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_tango"
+				"item"		"item_circlet"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
+				"item"		"item_blink"
+				"item"		"item_octarine_core"
+				"item"		"item_wind_waker"
+				"item"		"item_sheepstick"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_mage_slayer"
+				"item"		"item_orchid"
+				"item"		"item_revenants_brooch"
+				"item"		"item_shivas_guard"
+				"item"		"item_bloodthorn"
+				"item"		"item_nullifier"
+				"item"		"item_desolator"
+				"item"		"item_assault"
+				"item"		"item_witch_blade"
+				"item"		"item_hurricane_pike"
+			}
+			"consumables"
+			{
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_clarity"
+				"item"		"item_infused_raindrop"
+				"item"		"item_dust"
+			}
+			"visit mouz.gg/dota"
+			{
+				"item"		"item_gem"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_desolator"		"You usually get it when you do not have any tower hitters on your team and you’re struggling to destroy objectives."
+			"item_black_king_bar"		"Black King Bar enables your teamfight abilities; its an item you usually get against a lot of magic damage or lockdown."
+			"item_sheepstick"		"A great initiation item which enables your ability to focus down a certain target."
+			"item_magic_wand"		"A very good item for teamfighting, re-engaging and sustaining."
+			"item_shivas_guard"		"A great teamfighting tool, gives you vision while you use it, works well against physical damage heroes or heroes with illusions/summons."
+			"item_bloodthorn"		"Bloodthorn is an item that silences targets and helps with bursting them down. One of the best lategame items overall."
+			"item_nullifier"		"An item that prevents the target from using any item’s active abilities and even cancels them if already activated. Especially good against Black King Bar. Combine it with Bloodthorn for maximum efficiency."
+			"item_witch_blade"		"Increases your overall damage, you can solo kill heroes in combination with Poison Touch."
+			"item_orchid"		"Strong against heroes with escape or spirit heroes. Situationally can be skipped to buy into a defensive item."
+			"item_assault"		"Situational item which is mostly utility lategame. Buy it against heroes with psyhical damage."
+			"item_revenants_brooch"		"Very strong, extremely high damage lategame item. Good against heroes with Evasion especially."
+			"item_meteor_hammer"		"If your team lacks tower damage fully you can situationally buy it, especially when you do not want to be a true pos1/2."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dazzle_shadow_wave"
+			"2"		"dazzle_poison_touch"
+			"3"		"dazzle_poison_touch"
+			"4"		"dazzle_shadow_wave"
+			"5"		"dazzle_poison_touch"
+			"6"		"dazzle_bad_juju"
+			"7"		"dazzle_poison_touch"
+			"8"		"dazzle_shadow_wave"
+			"9"		"dazzle_shadow_wave"
+			"10"		"special_bonus_unique_dazzle_poison_touch_attack_range_bonus"
+			"11"		"dazzle_shallow_grave"
+			"12"		"dazzle_bad_juju"
+			"13"		"dazzle_shallow_grave"
+			"14"		"dazzle_shallow_grave"
+			"15"		"attribute_bonus"
+			"16"		"dazzle_shallow_grave"
+			"18"		"dazzle_bad_juju"
+			"20"		"special_bonus_unique_dazzle_3"
+			"25"		"special_bonus_unique_dazzle_4"
+		}
+		"AbilityTooltips"
+		{
+			"dazzle_poison_touch"		"Very strong harassment ability in lane and later on. 
+"
+			"dazzle_shallow_grave"		"Leveling it up only increases the range. If you need the range early on get extra points in it.
+
+Works through magic immunity.
+
+Use it on allies to buy them time during teamfights or when teleporting out.
+"
+			"dazzle_shadow_wave"		"A defensive ability that will sustain your carry during the laning stage, as well as inflict a lot of damage on your foes if they are around the targets youre healing."
+			"dazzle_bad_juju"		"Armor reduction increase per stack."
+		}
+	}
+}

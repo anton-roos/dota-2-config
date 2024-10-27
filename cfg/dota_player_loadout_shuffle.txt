@@ -1,0 +1,39 @@
+"PlayerLoadoutShuffle"
+{
+	"courier"
+	{
+		"0"		"0x00000001FB610949"
+	}
+	"music"
+	{
+		"0"		"0x0000000000000000"
+	}
+	"ward"
+	{
+		"0"		"0x0000000208ABE02E"
+	}
+	"hud_skin"
+	{
+		"0"		"0x0000000000000000"
+	}
+	"loading_screen"
+	{
+		"0"		"0x00000003AB4835E0"
+	}
+	"weather"
+	{
+		"0"		"0x0000000000000000"
+	}
+	"heroic_statue"
+	{
+		"0"		"0x00000001BB2C1745"
+	}
+	"multikill_banner"
+	{
+		"0"		"0x000000010FEFD881"
+	}
+	"terrain"
+	{
+		"0"		"0x0000000000000000"
+	}
+}

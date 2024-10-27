@@ -1,0 +1,101 @@
+"HeroGuide"
+{
+	"Hero"	"bristleback"
+	"Title"	"Bristleback Guide to Invulnerability"
+	"GuideRevision"	"1"
+	"FileVersion"	"1"
+	"Scratch"	"1"
+
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"	"item_flask"
+				"item"	"item_tango"
+				"item"	"item_clarity"
+				"item"	"item_branches"
+				"item"	"item_branches"
+				"item"	"item_stout_shield"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"	"item_ring_of_health"
+				"item"	"item_boots"
+				"item"	"item_magic_stick"
+				"item"	"item_soul_ring"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"	"item_vanguard"
+				"item"	"item_hood_of_defiance"
+				"item"	"item_phase_boots"
+			}
+			"Late Game PWNING!!"
+			{
+				"item"	"item_radiance"
+				"item"	"item_heart"
+				"item"	"item_assault"
+			}
+		}
+		"ItemTooltips"
+		{
+				"item_stout_shield"	"Recomended it builds into your vangaurd."
+				"item_branches"	"This item gives you +1 to all your atributes. You can build this into a magic wand if you want to pick up a wand later."
+				"item_boots"	"Pick this up after ring of health if posible."
+				"item_magic_stick"	"You can feel free to build this into a wand if you want."
+				"item_clarity"	"Bristebacks mana pool is very low at level one. Not spaming to much quil spray is a good idea wait until level 4 before you start spaming."
+				"item_flask"	"If you get below 200HP I recomend you use this."
+				"item_tango"	"This is your key to not run back to base when you get harased or playing aggro to fire quils."
+				"item_phase_boots"	"Buy this boots as offence. I recomend power treads if you get harased alot!"
+				"item_ring_of_health"	"Pick this up ASAP!!"
+				"item_assault"	"This item is so funny when you allready have your heart and radiance LOL!!!"
+				"item_heart"	"HERP DERP You can't kill me!!!"
+				"item_vanguard"	"This item goes great with your bristleback ability."
+				"item_hood_of_defiance"	"This item is good to pick up if you are against mages/casters."
+				"item_radiance"	"Get random kills withoud looking. This item is in sync with snot and quil spray."
+				"item_soul_ring"	"This is a good item because Bristleback runs out of mana alot."
+		}
+	}
+
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"	"bristleback_quill_spray"
+			"2"	"bristleback_viscous_nasal_goo"
+			"3"	"bristleback_quill_spray"
+			"4"	"bristleback_bristleback"
+			"5"	"bristleback_quill_spray"
+			"6"	"bristleback_warpath"
+			"7"	"bristleback_quill_spray"
+			"8"	"bristleback_bristleback"
+			"9"	"bristleback_bristleback"
+			"10"	"bristleback_bristleback"
+			"11"	"bristleback_warpath"
+			"12"	"bristleback_viscous_nasal_goo"
+			"13"	"bristleback_viscous_nasal_goo"
+			"14"	"bristleback_viscous_nasal_goo"
+			"15"	"attribute_bonus"
+			"16"	"bristleback_warpath"
+			"17"	"attribute_bonus"
+			"18"	"attribute_bonus"
+			"19"	"attribute_bonus"
+			"20"	"attribute_bonus"
+			"21"	"attribute_bonus"
+			"22"	"attribute_bonus"
+			"23"	"attribute_bonus"
+			"24"	"attribute_bonus"
+			"25"	"attribute_bonus"
+		}
+		"AbilityTooltips"
+		{
+				"bristleback_viscous_nasal_goo"	"This ability is great when chasing a hero or if a hero runs away from your quils. It stacks up to 4 times and boosts your ulti, I recomend spaming it while you are ganking down a hero."
+				"bristleback_quill_spray"	"This ability is what makes armadon. Spam it from level 4. It reduces enemy armor and stacks up to 4 times. It also boosts your ulti."
+				"bristleback_bristleback"	"Pasive armor if you get atacked from behind it fires off a passive quil when you recieve 200 damage."
+				"bristleback_warpath"	"This ability gives BB movement speed and atack speed when an ability is spammed."
+		}
+	}
+	"AssociatedWorkshopItemID"	"0x000000000811AF34"
+}
