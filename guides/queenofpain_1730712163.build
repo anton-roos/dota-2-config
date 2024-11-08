@@ -1,0 +1,105 @@
+"guidedata"
+{
+	"Hero"		"queenofpain"
+	"Title"		"Pos 2 Facet 1 tv/Crow_ZA"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.37d"
+	"Overview"		"With the current meta we are trying to max scream of pain to do a lot of burst damage in lane and also farm creeps."
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004BB86D2"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000067289263"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_faerie_fire"
+				"item"		"item_tango"
+				"item"		"item_ward_observer"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_null_talisman"
+				"item"		"item_gloves"
+				"item"		"item_magic_wand"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_diadem"
+				"item"		"item_dagon"
+				"item"		"item_staff_of_wizardry"
+				"item"		"item_kaya"
+				"item"		"item_black_king_bar"
+			}
+			"MID GAME"
+			{
+				"item"		"item_dagon_2"
+				"item"		"item_dagon_3"
+				"item"		"item_veil_of_discord"
+				"item"		"item_dagon_4"
+				"item"		"item_platemail"
+				"item"		"item_dagon_5"
+				"item"		"item_shivas_guard"
+			}
+			"LATE GAME"
+			{
+				"item"		"item_sphere"
+				"item"		"item_manta"
+				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_kaya_and_sange"
+			}
+			"MISC"
+			{
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_dust"
+				"item"		"item_ward_sentry"
+			}
+			"Neutrals"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"queenofpain_scream_of_pain"
+			"2"		"queenofpain_blink"
+			"3"		"queenofpain_scream_of_pain"
+			"4"		"queenofpain_blink"
+			"5"		"queenofpain_scream_of_pain"
+			"6"		"queenofpain_sonic_wave"
+			"7"		"queenofpain_scream_of_pain"
+			"8"		"queenofpain_blink"
+			"9"		"queenofpain_blink"
+			"10"		"special_bonus_strength_8"
+			"11"		"queenofpain_shadow_strike"
+			"12"		"queenofpain_sonic_wave"
+			"13"		"queenofpain_shadow_strike"
+			"14"		"queenofpain_shadow_strike"
+			"15"		"special_bonus_attack_damage_30"
+			"16"		"queenofpain_shadow_strike"
+			"18"		"queenofpain_sonic_wave"
+			"20"		"special_bonus_unique_queen_of_pain_2"
+			"25"		"special_bonus_unique_queen_of_pain_7"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_unique_queen_of_pain_7"		"crow_za "
+		}
+	}
+}

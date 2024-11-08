@@ -830,6 +830,67 @@
 			"Key"		"MWHEELUP"
 			"Mode"		"-1"
 		}
+		"ChatWheel2"
+		{
+			"Key"		"Y"
+			"Modifier"		"ALT"
+			"Mode"		"-1"
+		}
+		"ChatWheelCare"
+		{
+			"Key"		"KP_1"
+			"Mode"		"-1"
+		}
+		"ChatWheelGetBack"
+		{
+			"Key"		"KP_2"
+			"Mode"		"-1"
+		}
+		"ChatWheelNeedWards"
+		{
+			"Key"		"KP_3"
+			"Mode"		"-1"
+		}
+		"ChatWheelStun"
+		{
+			"Key"		"KP_4"
+			"Mode"		"-1"
+		}
+		"ChatWheelHelp"
+		{
+			"Key"		"KP_5"
+			"Mode"		"-1"
+		}
+		"ChatWheelGetPush"
+		{
+			"Key"		"KP_6"
+			"Mode"		"-1"
+		}
+		"ChatWheelGoodJob"
+		{
+			"Key"		"KP_7"
+			"Mode"		"-1"
+		}
+		"ChatWheelMissing"
+		{
+			"Key"		"KP_8"
+			"Mode"		"-1"
+		}
+		"ChatWheelMissingTop"
+		{
+			"Key"		"KP_DIVIDE"
+			"Mode"		"-1"
+		}
+		"ChatWheelMissingMiddle"
+		{
+			"Key"		"KP_MULTIPLY"
+			"Mode"		"-1"
+		}
+		"ChatWheelMissingBottom"
+		{
+			"Key"		"KP_MINUS"
+			"Mode"		"-1"
+		}
 	}
 	"PerUnitKeybinds"		"1"
 	"Items"

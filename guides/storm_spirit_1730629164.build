@@ -1,0 +1,171 @@
+"guidedata"
+{
+	"Hero"		"storm_spirit"
+	"Title"		"Pro Storm Spirit"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.37d"
+	"Overview"		"[quote][img]https://i.imgur.com/VEIbndI.jpeg [/img ]
+[url=https://go.thunder.partners/visit/?bta=36634&nci=5506] Sponsored by: Thunderpick [/url ][/quote]"
+	"GuideRevision"		"347"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000067275912"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_ward_observer"
+			}
+			"Early game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_null_talisman"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core items"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_aghanims_shard"
+				"item"		"item_witch_blade"
+				"item"		"item_kaya"
+				"item"		"item_black_king_bar"
+				"item"		"item_kaya_and_sange"
+			}
+			"Situational items"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_cyclone"
+				"item"		"item_orchid"
+				"item"		"item_eternal_shroud"
+			}
+			"Extension items"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sheepstick"
+				"item"		"item_devastator"
+			}
+			"Luxury items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_sphere"
+				"item"		"item_refresher"
+				"item"		"item_bloodthorn"
+			}
+			"#DOTA_Item_Build_UntitledCategory"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_orchid"		"Orchid of Malevolence is incredible item for Storm Spirit. Orchid turns Storm Spirit from a team-ganker to a solokiller as the enemy will take extra damage from all attacks, such as Overload and prevent the enemy from fighting back. Giving Storm Spirit the ability to stay on top and killing."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+			"item_black_king_bar"		"Though Linkens Sphere is ideal for the stats and Spell Block, Black King Bar is also good. 
+
+Black King Bar allows Storm Spirit from being able to Ball Lightning away or reposition and keeps enemies on their toes trying to target you with physical attacks; to which you can just kite."
+			"item_shivas_guard"		"Shivas Guard is a great initiation for Storm Spirit who can Ball Lightning into an enemy team, cast Shivas Guard as he nears that team and then immediately zip back to safety while slowing the enemy line-up."
+			"item_bloodstone"		"More mana, more maneuverability, more options to do! This is a great way to take your lead and go further, but it all depends on how confident you are with the game.
+
+Farm this in the lane before going out to gank unless you can ensure a kill that wont delay your farming pace."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_kaya"		"Storm Spirit relies on his abilities to dish damage to foes. Kaya reduces that cost while also amplifying its damage, helping Storms impact in-game."
+			"item_ultimate_scepter"		"Storm Spirit can initiate with Aghanims Scepter almost flawlessly with Ball Lightning into your Electric Vortex.
+
+Cast Static Remnant right after to dish out massive nuking damage to an enemy team."
+			"item_nullifier"		"Nullifier amplifies your damage and mutes enemies, preventing them from using their items.
+
+With your Overload passive, each attack when Nullifier is activated on an enemy will cut their movement speed momentarily - making it harder for them to escape.
+
+Especially useful against BKB users.
+"
+			"item_cyclone"		"Euls Scepter of Divinity is an alternative item to dispel silences that prevent you from escaping or a good extension of disables on ganked enemies.
+
+Also increases your regen."
+			"item_kaya_and_sange"		"Kaya and Sange alleviates the chain stuns and silences that Storm Spirit will receive, increase your magic output and mana gain to alleviate you of any concern. Its a cheaper alterntive to Bloodstone for when you need other Core Items to survive while also providing a lot of instrumental value of security and longetivity for you in fights."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_soul_ring"		"Even with Bottle, Storm Spirit still needs incredible mana to keep spamming his spells and farming with Overload.
+
+More importantly, you may have no mana and need Soul Ring when you know you need to escape for that extra mana for Ball Lightning"
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"For that late-game push and fighting, Aghs Shard gives you and your team incredible Overload additional magical damage."
+			"item_bottle"		"Your goal early-on is to snag last hits to get Bottle before the two-minute rune comes up. You rely on Bottle to spam abilities that either harasses your opponent, secures the ranged creep with an ability or to eventually gank when you can activate the rune whenever you want to start roaming to other lanes."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_witch_blade"		"Witch Blade provides Storm additional output through his growing intelligence gain as well as massive Overload damage auto-attack buff."
+			"item_falcon_blade"		"Storm Spirit consitently uses mana because he relies on his ability to last-hit with his Overload.
+
+Extra damage, health and some mana regen makes this item relatively appealing for a hero like Storm Spirit."
+			"item_meteor_hammer"		"Theres no combo here, just use it to farm and for the Mana Regen Amplification"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"storm_spirit_static_remnant"
+			"2"		"storm_spirit_overload"
+			"3"		"storm_spirit_overload"
+			"4"		"storm_spirit_electric_vortex"
+			"5"		"storm_spirit_static_remnant"
+			"6"		"storm_spirit_ball_lightning"
+			"7"		"storm_spirit_static_remnant"
+			"8"		"storm_spirit_overload"
+			"9"		"storm_spirit_overload"
+			"10"		"special_bonus_unique_storm_spirit_overload_aspd"
+			"12"		"storm_spirit_ball_lightning"
+			"13"		"storm_spirit_electric_vortex"
+			"14"		"storm_spirit_electric_vortex"
+			"15"		"special_bonus_hp_250"
+			"18"		"storm_spirit_ball_lightning"
+			"20"		"special_bonus_unique_storm_spirit"
+			"25"		"special_bonus_unique_storm_spirit_7"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_attack_speed_40"		"The Attack Speed is for the late-game as Storm Spirit starts to rely on his auto-attack to follow-through on his attacks."
+			"storm_spirit_static_remnant"		"Use Static Remnant:
+
+1. After Electric Vortex to force enemies to get hit by your remnant.
+2. To activate an Overload attack, more damage and slow
+3. In the trees to scout hidden enemies trying to juke
+4. During the laning phase to farm groups of creeps with Overload.
+
+Can trigger on invisible units. 
+Use this ability to farm."
+			"storm_spirit_electric_vortex"		"When casting Electric Vortex, you are also free to move or cast other abilities such as Static Remnant (which is a common combination that works at levels 3-4 of Vortex).
+
+This is your disable and also activates an Overload charge."
+			"storm_spirit_overload"		"Attack after this is triggered. The combination to gank works as such:
+
+1. Ball Lightning towards an enemy, then auto-attack Overload
+2. Electric Vortex and Static Remnant, then auto-attack Overload
+3. Reposition with Ball Lightning then auto-attack Overload
+
+Dont forget your Orchid of Malevolence if you bought it"
+			"storm_spirit_ball_lightning"		"Use Ball Lightning to move around the map. To initiate or to get away. Be sure to leave enough mana for you to do your other abilities. This can go over cliffs or through trees.
+
+This ability can also be used while simultaneously using your items such as Shivas Guard or Orchid of Malevolence."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}

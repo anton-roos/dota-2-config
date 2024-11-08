@@ -1,15 +1,15 @@
 "guidedata"
 {
 	"Hero"		"puck"
-	"Title"		"Pro Mid"
+	"Title"		"Pos 2 Facet 1 tv/crow_za"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.37c"
+	"GameplayVersion"		"7.37d"
 	"Overview"		""
-	"GuideRevision"		"21"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x00000000C6A92574"
 	"OriginalCreatorID"		"0x0000000004BB86D2"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066EEDB3D"
+	"TimeUpdated"		"0x000000006728AEFB"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -63,6 +63,7 @@
 				"item"		"item_gem"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
+				"item"		"item_dagon_5"
 			}
 		}
 		"ItemTooltips"
